@@ -1,0 +1,19 @@
+{
+    "name": "jean-pasqualini-lesson/lesson-var-dump",
+    "require": {
+        "symfony/var-dumper": "^2.7"
+    },
+    "autoload" :
+    {
+        "psr-4" :
+        {
+            "" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jean pasqualini",
+            "email": "jpasqualini75@gmail.com"
+        }
+    ]
+}
